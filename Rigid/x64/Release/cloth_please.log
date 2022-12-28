@@ -1,0 +1,31 @@
+﻿  geometry.cpp
+  main.cpp
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\Body.h(159,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\Body.h(166,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\Body.h(167,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\Body.h(247,18): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\Body.h(247,18): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\Body.h(248,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(9,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(231,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(273,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(302,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(332,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(335,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  objloader.cpp
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(33,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(44,13): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(52,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(56,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(61,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(66,18): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(124,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(135,13): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(143,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(148,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(154,18): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(206,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(217,13): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(225,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(231,18): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\objloader.cpp(230,33): warning C4101: 'normalIndex': unreferenced local variable

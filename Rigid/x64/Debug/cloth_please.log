@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\Mesh.h(30,11): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(9,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(106,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(126,40): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(172,19): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Emperor\Documents\CSCE-649\cloth_please\cloth_please\main.cpp(175,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  cloth_please.vcxproj -> C:\Users\Emperor\Documents\CSCE-649\cloth_please\x64\Debug\cloth_please.exe
+          1 file(s) copied.
